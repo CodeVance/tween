@@ -1,5 +1,5 @@
 # tween.core
-Tween library for [arcadia-unity](github.com/arcadia-unity/Arcadia)
+Tween library for [arcadia-unity](https://github.com/arcadia-unity/Arcadia)
 
 ![tween](https://cloud.githubusercontent.com/assets/2467644/19105679/52ed9bbe-8ab1-11e6-9a4c-3087e5f43e09.gif)
 
